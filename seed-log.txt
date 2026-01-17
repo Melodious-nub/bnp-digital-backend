@@ -331,3 +331,6 @@ Error seeding database: Unknown column 'name_en' in 'field list'
 [2026-01-17T10:51:59.958Z] --- Starting Database Seeding ---
 [2026-01-17T10:51:59.958Z] Connecting to database: bnp_db
 [2026-01-17T10:51:59.964Z] Database already seeded. Skipping.
+[2026-01-17T11:03:30.511Z] --- Starting Database Seeding ---
+[2026-01-17T11:03:30.512Z] Connecting to database: bnp_db
+[2026-01-17T11:03:30.519Z] Database already seeded. Skipping.

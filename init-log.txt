@@ -266,3 +266,8 @@ Database initialization completed.
 [2026-01-17T10:51:59.948Z] Database 'bnp_db' ensured.
 [2026-01-17T10:51:59.956Z] Ensured table contact_messages exists.
 [2026-01-17T10:51:59.956Z] Database tables already exist. Skipping full schema application.
+[2026-01-17T11:03:30.469Z] --- Starting Database Initialization ---
+[2026-01-17T11:03:30.470Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T11:03:30.496Z] Database 'bnp_db' ensured.
+[2026-01-17T11:03:30.509Z] Ensured table contact_messages exists.
+[2026-01-17T11:03:30.510Z] Database tables already exist. Skipping full schema application.
