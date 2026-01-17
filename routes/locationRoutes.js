@@ -1,0 +1,8 @@
+const express = require('express');
+const router = express.Router();
+const locationController = require('../controllers/locationController');
+
+router.get('/divisions', locationController.getDivisions);
+router.get('/districts/:divisionId', locationController.getDistricts);
+
+module.exports = router;

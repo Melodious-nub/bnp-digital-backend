@@ -1,0 +1,268 @@
+--- Starting Database Initialization ---
+Connecting to MySQL host: 127.0.0.1
+Database 'bnp_db' ensured.
+Schema application completed successfully.
+Database initialization completed.
+[2026-01-17T06:36:55.082Z] --- Starting Database Initialization ---
+[2026-01-17T06:36:55.083Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:36:55.098Z] Database 'bnp_db' ensured.
+[2026-01-17T06:36:55.317Z] Schema application completed successfully.
+[2026-01-17T06:36:55.318Z] Database initialization completed.
+[2026-01-17T06:40:51.618Z] --- Starting Database Initialization ---
+[2026-01-17T06:40:51.619Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:40:51.635Z] Database 'bnp_db' ensured.
+[2026-01-17T06:40:51.864Z] Schema application completed successfully.
+[2026-01-17T06:40:51.865Z] Database initialization completed.
+[2026-01-17T06:41:54.973Z] --- Starting Database Initialization ---
+[2026-01-17T06:41:54.974Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:41:54.989Z] Database 'bnp_db' ensured.
+[2026-01-17T06:41:55.220Z] Schema application completed successfully.
+[2026-01-17T06:41:55.221Z] Database initialization completed.
+[2026-01-17T06:45:59.765Z] --- Starting Database Initialization ---
+[2026-01-17T06:45:59.766Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:45:59.785Z] Database 'bnp_db' ensured.
+[2026-01-17T06:46:00.006Z] Schema application completed successfully.
+[2026-01-17T06:46:00.007Z] Database initialization completed.
+[2026-01-17T06:46:09.665Z] --- Starting Database Initialization ---
+[2026-01-17T06:46:09.666Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:46:09.683Z] Database 'bnp_db' ensured.
+[2026-01-17T06:46:09.920Z] Schema application completed successfully.
+[2026-01-17T06:46:09.921Z] Database initialization completed.
+[2026-01-17T06:46:15.845Z] --- Starting Database Initialization ---
+[2026-01-17T06:46:15.846Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:46:15.865Z] Database 'bnp_db' ensured.
+[2026-01-17T06:46:16.096Z] Schema application completed successfully.
+[2026-01-17T06:46:16.097Z] Database initialization completed.
+[2026-01-17T06:46:23.183Z] --- Starting Database Initialization ---
+[2026-01-17T06:46:23.184Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:46:23.206Z] Database 'bnp_db' ensured.
+[2026-01-17T06:46:23.461Z] Schema application completed successfully.
+[2026-01-17T06:46:23.461Z] Database initialization completed.
+[2026-01-17T06:46:29.124Z] --- Starting Database Initialization ---
+[2026-01-17T06:46:29.125Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:46:29.145Z] Database 'bnp_db' ensured.
+[2026-01-17T06:46:29.364Z] Schema application completed successfully.
+[2026-01-17T06:46:29.365Z] Database initialization completed.
+[2026-01-17T06:46:36.009Z] --- Starting Database Initialization ---
+[2026-01-17T06:46:36.010Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:46:36.028Z] Database 'bnp_db' ensured.
+[2026-01-17T06:46:36.244Z] Schema application completed successfully.
+[2026-01-17T06:46:36.245Z] Database initialization completed.
+[2026-01-17T06:49:11.728Z] --- Starting Database Initialization ---
+[2026-01-17T06:49:11.729Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:49:11.751Z] Database 'bnp_db' ensured.
+[2026-01-17T06:49:11.972Z] Schema application completed successfully.
+[2026-01-17T06:49:11.973Z] Database initialization completed.
+[2026-01-17T06:49:18.244Z] --- Starting Database Initialization ---
+[2026-01-17T06:49:18.245Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:49:18.268Z] Database 'bnp_db' ensured.
+[2026-01-17T06:49:18.496Z] Schema application completed successfully.
+[2026-01-17T06:49:18.497Z] Database initialization completed.
+[2026-01-17T06:49:25.896Z] --- Starting Database Initialization ---
+[2026-01-17T06:49:25.897Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:49:25.915Z] Database 'bnp_db' ensured.
+[2026-01-17T06:49:26.142Z] Schema application completed successfully.
+[2026-01-17T06:49:26.143Z] Database initialization completed.
+[2026-01-17T06:49:50.421Z] --- Starting Database Initialization ---
+[2026-01-17T06:49:50.421Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:49:50.444Z] Database 'bnp_db' ensured.
+[2026-01-17T06:49:50.699Z] Schema application completed successfully.
+[2026-01-17T06:49:50.700Z] Database initialization completed.
+[2026-01-17T06:50:01.217Z] --- Starting Database Initialization ---
+[2026-01-17T06:50:01.217Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:50:01.236Z] Database 'bnp_db' ensured.
+[2026-01-17T06:50:01.474Z] Schema application completed successfully.
+[2026-01-17T06:50:01.475Z] Database initialization completed.
+[2026-01-17T06:51:18.313Z] --- Starting Database Initialization ---
+[2026-01-17T06:51:18.314Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:51:18.334Z] Database 'bnp_db' ensured.
+[2026-01-17T06:51:18.550Z] Schema application completed successfully.
+[2026-01-17T06:51:18.551Z] Database initialization completed.
+[2026-01-17T06:51:27.868Z] --- Starting Database Initialization ---
+[2026-01-17T06:51:27.868Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:51:27.888Z] Database 'bnp_db' ensured.
+[2026-01-17T06:51:28.127Z] Schema application completed successfully.
+[2026-01-17T06:51:28.128Z] Database initialization completed.
+[2026-01-17T06:51:34.323Z] --- Starting Database Initialization ---
+[2026-01-17T06:51:34.324Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T06:51:34.348Z] Database 'bnp_db' ensured.
+[2026-01-17T06:51:34.617Z] Schema application completed successfully.
+[2026-01-17T06:51:34.618Z] Database initialization completed.
+[2026-01-17T07:06:17.128Z] --- Starting Database Initialization ---
+[2026-01-17T07:06:17.129Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:06:17.151Z] Database 'bnp_db' ensured.
+[2026-01-17T07:06:17.394Z] Schema application completed successfully.
+[2026-01-17T07:06:17.395Z] Database initialization completed.
+[2026-01-17T07:06:37.640Z] --- Starting Database Initialization ---
+[2026-01-17T07:06:37.641Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:06:37.661Z] Database 'bnp_db' ensured.
+[2026-01-17T07:06:37.882Z] Schema application completed successfully.
+[2026-01-17T07:06:37.883Z] Database initialization completed.
+[2026-01-17T07:15:45.342Z] --- Starting Database Initialization ---
+[2026-01-17T07:15:45.343Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:15:45.360Z] Database 'bnp_db' ensured.
+[2026-01-17T07:15:45.578Z] Schema application completed successfully.
+[2026-01-17T07:15:45.578Z] Database initialization completed.
+[2026-01-17T07:15:51.570Z] --- Starting Database Initialization ---
+[2026-01-17T07:15:51.571Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:15:51.588Z] Database 'bnp_db' ensured.
+[2026-01-17T07:15:51.815Z] Schema application completed successfully.
+[2026-01-17T07:15:51.816Z] Database initialization completed.
+[2026-01-17T07:16:02.608Z] --- Starting Database Initialization ---
+[2026-01-17T07:16:02.609Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:16:02.629Z] Database 'bnp_db' ensured.
+[2026-01-17T07:16:02.862Z] Schema application completed successfully.
+[2026-01-17T07:16:02.863Z] Database initialization completed.
+[2026-01-17T07:16:12.189Z] --- Starting Database Initialization ---
+[2026-01-17T07:16:12.190Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:16:12.210Z] Database 'bnp_db' ensured.
+[2026-01-17T07:16:12.435Z] Schema application completed successfully.
+[2026-01-17T07:16:12.437Z] Database initialization completed.
+[2026-01-17T07:16:35.060Z] --- Starting Database Initialization ---
+[2026-01-17T07:16:35.061Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:16:35.080Z] Database 'bnp_db' ensured.
+[2026-01-17T07:16:35.294Z] Schema application completed successfully.
+[2026-01-17T07:16:35.295Z] Database initialization completed.
+[2026-01-17T07:19:47.433Z] --- Starting Database Initialization ---
+[2026-01-17T07:19:47.434Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:19:47.450Z] Database 'bnp_db' ensured.
+[2026-01-17T07:19:47.662Z] Schema application completed successfully.
+[2026-01-17T07:19:47.663Z] Database initialization completed.
+[2026-01-17T07:22:08.732Z] --- Starting Database Initialization ---
+[2026-01-17T07:22:08.732Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:22:08.750Z] Database 'bnp_db' ensured.
+[2026-01-17T07:22:08.757Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:22:21.248Z] --- Starting Database Initialization ---
+[2026-01-17T07:22:21.249Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:22:21.270Z] Database 'bnp_db' ensured.
+[2026-01-17T07:22:21.279Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:22:42.627Z] --- Starting Database Initialization ---
+[2026-01-17T07:22:42.627Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:22:42.644Z] Database 'bnp_db' ensured.
+[2026-01-17T07:22:42.651Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:24:21.558Z] --- Starting Database Initialization ---
+[2026-01-17T07:24:21.558Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:24:21.577Z] Database 'bnp_db' ensured.
+[2026-01-17T07:24:21.583Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:33:35.894Z] --- Starting Database Initialization ---
+[2026-01-17T07:33:35.895Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:33:35.915Z] Database 'bnp_db' ensured.
+[2026-01-17T07:33:35.922Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:34:18.981Z] --- Starting Database Initialization ---
+[2026-01-17T07:34:18.989Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:34:19.044Z] Database 'bnp_db' ensured.
+[2026-01-17T07:34:19.059Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:35:12.960Z] --- Starting Database Initialization ---
+[2026-01-17T07:35:12.961Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:35:12.982Z] Database 'bnp_db' ensured.
+[2026-01-17T07:35:12.989Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:35:37.320Z] --- Starting Database Initialization ---
+[2026-01-17T07:35:37.321Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:35:37.339Z] Database 'bnp_db' ensured.
+[2026-01-17T07:35:37.347Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:36:18.721Z] --- Starting Database Initialization ---
+[2026-01-17T07:36:18.721Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:36:18.746Z] Database 'bnp_db' ensured.
+[2026-01-17T07:36:18.755Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:54:44.942Z] --- Starting Database Initialization ---
+[2026-01-17T07:54:44.943Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:54:44.961Z] Database 'bnp_db' ensured.
+[2026-01-17T07:54:44.967Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:55:13.982Z] --- Starting Database Initialization ---
+[2026-01-17T07:55:13.983Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:55:14.001Z] Database 'bnp_db' ensured.
+[2026-01-17T07:55:14.008Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:55:28.053Z] --- Starting Database Initialization ---
+[2026-01-17T07:55:28.054Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:55:28.074Z] Database 'bnp_db' ensured.
+[2026-01-17T07:55:28.081Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:55:34.373Z] --- Starting Database Initialization ---
+[2026-01-17T07:55:34.375Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:55:34.395Z] Database 'bnp_db' ensured.
+[2026-01-17T07:55:34.402Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:56:53.306Z] --- Starting Database Initialization ---
+[2026-01-17T07:56:53.307Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:56:53.327Z] Database 'bnp_db' ensured.
+[2026-01-17T07:56:53.334Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:57:00.407Z] --- Starting Database Initialization ---
+[2026-01-17T07:57:00.408Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:57:00.431Z] Database 'bnp_db' ensured.
+[2026-01-17T07:57:00.438Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:57:07.327Z] --- Starting Database Initialization ---
+[2026-01-17T07:57:07.328Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:57:07.351Z] Database 'bnp_db' ensured.
+[2026-01-17T07:57:07.358Z] Database tables already exist. Skipping schema application.
+[2026-01-17T07:57:13.366Z] --- Starting Database Initialization ---
+[2026-01-17T07:57:13.367Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T07:57:13.384Z] Database 'bnp_db' ensured.
+[2026-01-17T07:57:13.391Z] Database tables already exist. Skipping schema application.
+[2026-01-17T08:05:27.175Z] --- Starting Database Initialization ---
+[2026-01-17T08:05:27.176Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T08:05:27.195Z] Database 'bnp_db' ensured.
+[2026-01-17T08:05:27.202Z] Database tables already exist. Skipping schema application.
+[2026-01-17T08:10:22.633Z] --- Starting Database Initialization ---
+[2026-01-17T08:10:22.633Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T08:10:22.652Z] Database 'bnp_db' ensured.
+[2026-01-17T08:10:22.659Z] Database tables already exist. Skipping schema application.
+[2026-01-17T08:10:32.835Z] --- Starting Database Initialization ---
+[2026-01-17T08:10:32.835Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T08:10:32.856Z] Database 'bnp_db' ensured.
+[2026-01-17T08:10:32.864Z] Database tables already exist. Skipping schema application.
+[2026-01-17T08:12:10.060Z] --- Starting Database Initialization ---
+[2026-01-17T08:12:10.061Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T08:12:10.077Z] Database 'bnp_db' ensured.
+[2026-01-17T08:12:10.083Z] Database tables already exist. Skipping schema application.
+[2026-01-17T08:28:13.402Z] --- Starting Database Initialization ---
+[2026-01-17T08:28:13.402Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T08:28:13.426Z] Database 'bnp_db' ensured.
+[2026-01-17T08:28:13.434Z] Database tables already exist. Skipping schema application.
+[2026-01-17T08:28:29.837Z] --- Starting Database Initialization ---
+[2026-01-17T08:28:29.838Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T08:28:29.859Z] Database 'bnp_db' ensured.
+[2026-01-17T08:28:29.866Z] Database tables already exist. Skipping schema application.
+[2026-01-17T08:28:35.990Z] --- Starting Database Initialization ---
+[2026-01-17T08:28:35.990Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T08:28:36.012Z] Database 'bnp_db' ensured.
+[2026-01-17T08:28:36.020Z] Database tables already exist. Skipping schema application.
+[2026-01-17T08:31:02.110Z] --- Starting Database Initialization ---
+[2026-01-17T08:31:02.110Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T08:31:02.133Z] Database 'bnp_db' ensured.
+[2026-01-17T08:31:02.141Z] Database tables already exist. Skipping schema application.
+[2026-01-17T08:32:27.600Z] --- Starting Database Initialization ---
+[2026-01-17T08:32:27.601Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T08:32:27.617Z] Database 'bnp_db' ensured.
+[2026-01-17T08:32:27.623Z] Database tables already exist. Skipping schema application.
+[2026-01-17T10:40:18.122Z] --- Starting Database Initialization ---
+[2026-01-17T10:40:18.124Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T10:40:18.366Z] Database 'bnp_db' ensured.
+[2026-01-17T10:40:18.372Z] Database tables already exist. Skipping schema application.
+[2026-01-17T10:41:51.714Z] --- Starting Database Initialization ---
+[2026-01-17T10:41:51.714Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T10:41:51.732Z] Database 'bnp_db' ensured.
+[2026-01-17T10:41:51.739Z] Database tables already exist. Skipping schema application.
+[2026-01-17T10:45:14.703Z] --- Starting Database Initialization ---
+[2026-01-17T10:45:14.704Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T10:45:14.721Z] Database 'bnp_db' ensured.
+[2026-01-17T10:45:14.728Z] Database tables already exist. Skipping schema application.
+[2026-01-17T10:47:11.416Z] --- Starting Database Initialization ---
+[2026-01-17T10:47:11.417Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T10:47:11.437Z] Database 'bnp_db' ensured.
+[2026-01-17T10:47:11.446Z] Database tables already exist. Skipping schema application.
+[2026-01-17T10:48:05.951Z] --- Starting Database Initialization ---
+[2026-01-17T10:48:05.953Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T10:48:05.980Z] Database 'bnp_db' ensured.
+[2026-01-17T10:48:05.989Z] Database tables already exist. Skipping schema application.
+[2026-01-17T10:49:35.006Z] --- Starting Database Initialization ---
+[2026-01-17T10:49:35.007Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T10:49:35.027Z] Database 'bnp_db' ensured.
+[2026-01-17T10:49:35.034Z] Database tables already exist. Skipping schema application.
+[2026-01-17T10:51:41.347Z] --- Starting Database Initialization ---
+[2026-01-17T10:51:41.347Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T10:51:41.368Z] Database 'bnp_db' ensured.
+[2026-01-17T10:51:41.405Z] Ensured table contact_messages exists.
+[2026-01-17T10:51:41.406Z] Database tables already exist. Skipping full schema application.
+[2026-01-17T10:51:59.926Z] --- Starting Database Initialization ---
+[2026-01-17T10:51:59.926Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-17T10:51:59.948Z] Database 'bnp_db' ensured.
+[2026-01-17T10:51:59.956Z] Ensured table contact_messages exists.
+[2026-01-17T10:51:59.956Z] Database tables already exist. Skipping full schema application.

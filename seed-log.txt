@@ -1,0 +1,333 @@
+--- Starting Database Seeding ---
+Connecting to database: bnp_db
+Seeding data...
+Super admin created.
+Divisions seeded.
+Districts seeded.
+Error seeding database: Unknown column 'name_en' in 'field list'
+[2026-01-17T06:36:55.319Z] --- Starting Database Seeding ---
+[2026-01-17T06:36:55.319Z] Connecting to database: bnp_db
+[2026-01-17T06:36:55.321Z] Seeding data...
+[2026-01-17T06:36:55.385Z] Super admin created.
+[2026-01-17T06:36:55.408Z] Divisions seeded.
+[2026-01-17T06:36:55.558Z] Districts seeded.
+[2026-01-17T06:36:55.613Z] Constituencies seeded.
+[2026-01-17T06:36:55.613Z] Database seeding completed successfully!
+[2026-01-17T06:40:51.866Z] --- Starting Database Seeding ---
+[2026-01-17T06:40:51.867Z] Connecting to database: bnp_db
+[2026-01-17T06:40:51.870Z] Seeding data...
+[2026-01-17T06:40:51.935Z] Super admin created.
+[2026-01-17T06:40:51.954Z] Divisions seeded.
+[2026-01-17T06:40:52.109Z] Districts seeded.
+[2026-01-17T06:40:52.164Z] Constituencies seeded.
+[2026-01-17T06:40:52.165Z] Database seeding completed successfully!
+[2026-01-17T06:41:55.222Z] --- Starting Database Seeding ---
+[2026-01-17T06:41:55.222Z] Connecting to database: bnp_db
+[2026-01-17T06:41:55.225Z] Seeding data...
+[2026-01-17T06:41:55.290Z] Super admin created.
+[2026-01-17T06:41:55.313Z] Divisions seeded.
+[2026-01-17T06:41:55.449Z] Districts seeded.
+[2026-01-17T06:41:55.505Z] Constituencies seeded.
+[2026-01-17T06:41:55.505Z] Database seeding completed successfully!
+[2026-01-17T06:46:00.008Z] --- Starting Database Seeding ---
+[2026-01-17T06:46:00.009Z] Connecting to database: bnp_db
+[2026-01-17T06:46:00.012Z] Seeding data...
+[2026-01-17T06:46:00.079Z] Super admin created.
+[2026-01-17T06:46:00.104Z] Divisions seeded.
+[2026-01-17T06:46:00.245Z] Districts seeded.
+[2026-01-17T06:46:00.306Z] Constituencies seeded.
+[2026-01-17T06:46:00.306Z] Database seeding completed successfully!
+[2026-01-17T06:46:09.922Z] --- Starting Database Seeding ---
+[2026-01-17T06:46:09.923Z] Connecting to database: bnp_db
+[2026-01-17T06:46:09.925Z] Seeding data...
+[2026-01-17T06:46:09.989Z] Super admin created.
+[2026-01-17T06:46:10.008Z] Divisions seeded.
+[2026-01-17T06:46:10.170Z] Districts seeded.
+[2026-01-17T06:46:10.217Z] Constituencies seeded.
+[2026-01-17T06:46:10.218Z] Database seeding completed successfully!
+[2026-01-17T06:46:16.098Z] --- Starting Database Seeding ---
+[2026-01-17T06:46:16.098Z] Connecting to database: bnp_db
+[2026-01-17T06:46:16.101Z] Seeding data...
+[2026-01-17T06:46:16.168Z] Super admin created.
+[2026-01-17T06:46:16.190Z] Divisions seeded.
+[2026-01-17T06:46:16.309Z] Districts seeded.
+[2026-01-17T06:46:16.360Z] Constituencies seeded.
+[2026-01-17T06:46:16.360Z] Database seeding completed successfully!
+[2026-01-17T06:46:23.462Z] --- Starting Database Seeding ---
+[2026-01-17T06:46:23.463Z] Connecting to database: bnp_db
+[2026-01-17T06:46:23.469Z] Seeding data...
+[2026-01-17T06:46:23.548Z] Super admin created.
+[2026-01-17T06:46:23.569Z] Divisions seeded.
+[2026-01-17T06:46:23.699Z] Districts seeded.
+[2026-01-17T06:46:23.757Z] Constituencies seeded.
+[2026-01-17T06:46:23.758Z] Database seeding completed successfully!
+[2026-01-17T06:46:29.366Z] --- Starting Database Seeding ---
+[2026-01-17T06:46:29.367Z] Connecting to database: bnp_db
+[2026-01-17T06:46:29.370Z] Seeding data...
+[2026-01-17T06:46:29.439Z] Super admin created.
+[2026-01-17T06:46:29.459Z] Divisions seeded.
+[2026-01-17T06:46:29.587Z] Districts seeded.
+[2026-01-17T06:46:29.640Z] Constituencies seeded.
+[2026-01-17T06:46:29.641Z] Database seeding completed successfully!
+[2026-01-17T06:46:36.245Z] --- Starting Database Seeding ---
+[2026-01-17T06:46:36.246Z] Connecting to database: bnp_db
+[2026-01-17T06:46:36.249Z] Seeding data...
+[2026-01-17T06:46:36.312Z] Super admin created.
+[2026-01-17T06:46:36.331Z] Divisions seeded.
+[2026-01-17T06:46:36.478Z] Districts seeded.
+[2026-01-17T06:46:36.531Z] Constituencies seeded.
+[2026-01-17T06:46:36.531Z] Database seeding completed successfully!
+[2026-01-17T06:49:11.973Z] --- Starting Database Seeding ---
+[2026-01-17T06:49:11.974Z] Connecting to database: bnp_db
+[2026-01-17T06:49:11.976Z] Seeding data...
+[2026-01-17T06:49:12.043Z] Super admin created.
+[2026-01-17T06:49:12.065Z] Divisions seeded.
+[2026-01-17T06:49:12.189Z] Districts seeded.
+[2026-01-17T06:49:12.258Z] Constituencies seeded.
+[2026-01-17T06:49:12.259Z] Database seeding completed successfully!
+[2026-01-17T06:49:18.498Z] --- Starting Database Seeding ---
+[2026-01-17T06:49:18.498Z] Connecting to database: bnp_db
+[2026-01-17T06:49:18.501Z] Seeding data...
+[2026-01-17T06:49:18.566Z] Super admin created.
+[2026-01-17T06:49:18.588Z] Divisions seeded.
+[2026-01-17T06:49:18.713Z] Districts seeded.
+[2026-01-17T06:49:18.760Z] Constituencies seeded.
+[2026-01-17T06:49:18.761Z] Database seeding completed successfully!
+[2026-01-17T06:49:26.144Z] --- Starting Database Seeding ---
+[2026-01-17T06:49:26.144Z] Connecting to database: bnp_db
+[2026-01-17T06:49:26.147Z] Seeding data...
+[2026-01-17T06:49:26.212Z] Super admin created.
+[2026-01-17T06:49:26.233Z] Divisions seeded.
+[2026-01-17T06:49:26.391Z] Districts seeded.
+[2026-01-17T06:49:26.447Z] Constituencies seeded.
+[2026-01-17T06:49:26.459Z] Global team seeded.
+[2026-01-17T06:49:26.460Z] Database seeding completed successfully!
+[2026-01-17T06:49:50.701Z] --- Starting Database Seeding ---
+[2026-01-17T06:49:50.701Z] Connecting to database: bnp_db
+[2026-01-17T06:49:50.705Z] Seeding data...
+[2026-01-17T06:49:50.784Z] Super admin created.
+[2026-01-17T06:49:50.804Z] Divisions seeded.
+[2026-01-17T06:49:50.948Z] Districts seeded.
+[2026-01-17T06:49:51.013Z] Constituencies seeded.
+[2026-01-17T06:49:51.024Z] Global team seeded.
+[2026-01-17T06:49:51.025Z] Database seeding completed successfully!
+[2026-01-17T06:50:01.475Z] --- Starting Database Seeding ---
+[2026-01-17T06:50:01.476Z] Connecting to database: bnp_db
+[2026-01-17T06:50:01.479Z] Seeding data...
+[2026-01-17T06:50:01.556Z] Super admin created.
+[2026-01-17T06:50:01.576Z] Divisions seeded.
+[2026-01-17T06:50:01.715Z] Districts seeded.
+[2026-01-17T06:50:01.774Z] Constituencies seeded.
+[2026-01-17T06:50:01.787Z] Global team seeded.
+[2026-01-17T06:50:01.788Z] Database seeding completed successfully!
+[2026-01-17T06:51:18.552Z] --- Starting Database Seeding ---
+[2026-01-17T06:51:18.553Z] Connecting to database: bnp_db
+[2026-01-17T06:51:18.555Z] Seeding data...
+[2026-01-17T06:51:18.630Z] Super admin created.
+[2026-01-17T06:51:18.652Z] Divisions seeded.
+[2026-01-17T06:51:18.780Z] Districts seeded.
+[2026-01-17T06:51:18.833Z] Constituencies seeded.
+[2026-01-17T06:51:18.834Z] Database seeding completed successfully!
+[2026-01-17T06:51:28.129Z] --- Starting Database Seeding ---
+[2026-01-17T06:51:28.129Z] Connecting to database: bnp_db
+[2026-01-17T06:51:28.132Z] Seeding data...
+[2026-01-17T06:51:28.202Z] Super admin created.
+[2026-01-17T06:51:28.223Z] Divisions seeded.
+[2026-01-17T06:51:28.360Z] Districts seeded.
+[2026-01-17T06:51:28.415Z] Constituencies seeded.
+[2026-01-17T06:51:28.416Z] Database seeding completed successfully!
+[2026-01-17T06:51:34.620Z] --- Starting Database Seeding ---
+[2026-01-17T06:51:34.620Z] Connecting to database: bnp_db
+[2026-01-17T06:51:34.624Z] Seeding data...
+[2026-01-17T06:51:34.716Z] Super admin created.
+[2026-01-17T06:51:34.738Z] Divisions seeded.
+[2026-01-17T06:51:34.878Z] Districts seeded.
+[2026-01-17T06:51:34.928Z] Constituencies seeded.
+[2026-01-17T06:51:34.928Z] Database seeding completed successfully!
+[2026-01-17T07:06:17.396Z] --- Starting Database Seeding ---
+[2026-01-17T07:06:17.397Z] Connecting to database: bnp_db
+[2026-01-17T07:06:17.400Z] Seeding data...
+[2026-01-17T07:06:17.473Z] Super admin created.
+[2026-01-17T07:06:17.493Z] Divisions seeded.
+[2026-01-17T07:06:17.629Z] Districts seeded.
+[2026-01-17T07:06:17.681Z] Constituencies seeded.
+[2026-01-17T07:06:17.681Z] Database seeding completed successfully!
+[2026-01-17T07:06:37.884Z] --- Starting Database Seeding ---
+[2026-01-17T07:06:37.885Z] Connecting to database: bnp_db
+[2026-01-17T07:06:37.887Z] Seeding data...
+[2026-01-17T07:06:37.952Z] Super admin created.
+[2026-01-17T07:06:37.972Z] Divisions seeded.
+[2026-01-17T07:06:38.101Z] Districts seeded.
+[2026-01-17T07:06:38.156Z] Constituencies seeded.
+[2026-01-17T07:06:38.157Z] Database seeding completed successfully!
+[2026-01-17T07:15:45.579Z] --- Starting Database Seeding ---
+[2026-01-17T07:15:45.580Z] Connecting to database: bnp_db
+[2026-01-17T07:15:45.583Z] Seeding data...
+[2026-01-17T07:15:45.647Z] Super admin created.
+[2026-01-17T07:15:45.672Z] Divisions seeded.
+[2026-01-17T07:15:45.794Z] Districts seeded.
+[2026-01-17T07:15:45.850Z] Constituencies seeded.
+[2026-01-17T07:15:45.850Z] Database seeding completed successfully!
+[2026-01-17T07:15:51.817Z] --- Starting Database Seeding ---
+[2026-01-17T07:15:51.817Z] Connecting to database: bnp_db
+[2026-01-17T07:15:51.819Z] Seeding data...
+[2026-01-17T07:15:51.884Z] Super admin created.
+[2026-01-17T07:15:51.905Z] Divisions seeded.
+[2026-01-17T07:15:52.049Z] Districts seeded.
+[2026-01-17T07:15:52.103Z] Constituencies seeded.
+[2026-01-17T07:15:52.103Z] Database seeding completed successfully!
+[2026-01-17T07:16:02.864Z] --- Starting Database Seeding ---
+[2026-01-17T07:16:02.865Z] Connecting to database: bnp_db
+[2026-01-17T07:16:02.868Z] Seeding data...
+[2026-01-17T07:16:02.935Z] Super admin created.
+[2026-01-17T07:16:02.954Z] Divisions seeded.
+[2026-01-17T07:16:03.080Z] Districts seeded.
+[2026-01-17T07:16:03.130Z] Constituencies seeded.
+[2026-01-17T07:16:03.131Z] Database seeding completed successfully!
+[2026-01-17T07:16:12.438Z] --- Starting Database Seeding ---
+[2026-01-17T07:16:12.439Z] Connecting to database: bnp_db
+[2026-01-17T07:16:12.441Z] Seeding data...
+[2026-01-17T07:16:12.511Z] Super admin created.
+[2026-01-17T07:16:12.533Z] Divisions seeded.
+[2026-01-17T07:16:12.657Z] Districts seeded.
+[2026-01-17T07:16:12.708Z] Constituencies seeded.
+[2026-01-17T07:16:12.708Z] Database seeding completed successfully!
+[2026-01-17T07:16:35.296Z] --- Starting Database Seeding ---
+[2026-01-17T07:16:35.296Z] Connecting to database: bnp_db
+[2026-01-17T07:16:35.300Z] Seeding data...
+[2026-01-17T07:16:35.369Z] Super admin created.
+[2026-01-17T07:16:35.388Z] Divisions seeded.
+[2026-01-17T07:16:35.509Z] Districts seeded.
+[2026-01-17T07:16:35.571Z] Constituencies seeded.
+[2026-01-17T07:16:35.571Z] Database seeding completed successfully!
+[2026-01-17T07:19:47.664Z] --- Starting Database Seeding ---
+[2026-01-17T07:19:47.664Z] Connecting to database: bnp_db
+[2026-01-17T07:19:47.667Z] Seeding data...
+[2026-01-17T07:19:47.731Z] Super admin created.
+[2026-01-17T07:19:47.755Z] Divisions seeded.
+[2026-01-17T07:19:47.883Z] Districts seeded.
+[2026-01-17T07:19:47.941Z] Constituencies seeded.
+[2026-01-17T07:19:47.941Z] Database seeding completed successfully!
+[2026-01-17T07:22:08.759Z] --- Starting Database Seeding ---
+[2026-01-17T07:22:08.759Z] Connecting to database: bnp_db
+[2026-01-17T07:22:08.762Z] Seeding data...
+[2026-01-17T07:22:08.828Z] Super admin created.
+[2026-01-17T07:22:08.833Z] Divisions seeded.
+[2026-01-17T07:22:08.849Z] Districts seeded.
+[2026-01-17T07:22:08.858Z] Constituencies seeded.
+[2026-01-17T07:22:08.858Z] Database seeding completed successfully!
+[2026-01-17T07:22:21.281Z] --- Starting Database Seeding ---
+[2026-01-17T07:22:21.281Z] Connecting to database: bnp_db
+[2026-01-17T07:22:21.287Z] Database already seeded. Skipping.
+[2026-01-17T07:22:42.653Z] --- Starting Database Seeding ---
+[2026-01-17T07:22:42.653Z] Connecting to database: bnp_db
+[2026-01-17T07:22:42.657Z] Database already seeded. Skipping.
+[2026-01-17T07:24:21.585Z] --- Starting Database Seeding ---
+[2026-01-17T07:24:21.585Z] Connecting to database: bnp_db
+[2026-01-17T07:24:21.589Z] Database already seeded. Skipping.
+[2026-01-17T07:33:35.924Z] --- Starting Database Seeding ---
+[2026-01-17T07:33:35.924Z] Connecting to database: bnp_db
+[2026-01-17T07:33:35.928Z] Database already seeded. Skipping.
+[2026-01-17T07:34:19.075Z] --- Starting Database Seeding ---
+[2026-01-17T07:34:19.079Z] Connecting to database: bnp_db
+[2026-01-17T07:34:19.097Z] Seeding data...
+[2026-01-17T07:34:19.238Z] Super admin created.
+[2026-01-17T07:34:19.243Z] Divisions seeded.
+[2026-01-17T07:34:19.265Z] Districts seeded.
+[2026-01-17T07:34:19.273Z] Constituencies seeded.
+[2026-01-17T07:34:19.275Z] Database seeding completed successfully!
+[2026-01-17T07:35:12.990Z] --- Starting Database Seeding ---
+[2026-01-17T07:35:12.991Z] Connecting to database: bnp_db
+[2026-01-17T07:35:12.996Z] Seeding data...
+[2026-01-17T07:35:13.069Z] Super admin created.
+[2026-01-17T07:35:13.078Z] Divisions seeded.
+[2026-01-17T07:35:13.101Z] Districts seeded.
+[2026-01-17T07:35:13.113Z] Constituencies seeded.
+[2026-01-17T07:35:13.115Z] Database seeding completed successfully!
+[2026-01-17T07:35:37.349Z] --- Starting Database Seeding ---
+[2026-01-17T07:35:37.349Z] Connecting to database: bnp_db
+[2026-01-17T07:35:37.352Z] Seeding data...
+[2026-01-17T07:35:37.421Z] Super admin created.
+[2026-01-17T07:35:37.425Z] Divisions seeded.
+[2026-01-17T07:35:37.444Z] Districts seeded.
+[2026-01-17T07:35:37.451Z] Constituencies seeded.
+[2026-01-17T07:35:37.466Z] Global team seeded.
+[2026-01-17T07:35:37.467Z] Database seeding completed successfully!
+[2026-01-17T07:36:18.757Z] --- Starting Database Seeding ---
+[2026-01-17T07:36:18.758Z] Connecting to database: bnp_db
+[2026-01-17T07:36:18.766Z] Database already seeded. Skipping.
+[2026-01-17T07:54:44.968Z] --- Starting Database Seeding ---
+[2026-01-17T07:54:44.969Z] Connecting to database: bnp_db
+[2026-01-17T07:54:44.973Z] Database already seeded. Skipping.
+[2026-01-17T07:55:14.010Z] --- Starting Database Seeding ---
+[2026-01-17T07:55:14.010Z] Connecting to database: bnp_db
+[2026-01-17T07:55:14.014Z] Database already seeded. Skipping.
+[2026-01-17T07:55:28.083Z] --- Starting Database Seeding ---
+[2026-01-17T07:55:28.083Z] Connecting to database: bnp_db
+[2026-01-17T07:55:28.088Z] Database already seeded. Skipping.
+[2026-01-17T07:55:34.403Z] --- Starting Database Seeding ---
+[2026-01-17T07:55:34.404Z] Connecting to database: bnp_db
+[2026-01-17T07:55:34.409Z] Database already seeded. Skipping.
+[2026-01-17T07:56:53.336Z] --- Starting Database Seeding ---
+[2026-01-17T07:56:53.336Z] Connecting to database: bnp_db
+[2026-01-17T07:56:53.341Z] Database already seeded. Skipping.
+[2026-01-17T07:57:00.439Z] --- Starting Database Seeding ---
+[2026-01-17T07:57:00.439Z] Connecting to database: bnp_db
+[2026-01-17T07:57:00.444Z] Database already seeded. Skipping.
+[2026-01-17T07:57:07.360Z] --- Starting Database Seeding ---
+[2026-01-17T07:57:07.360Z] Connecting to database: bnp_db
+[2026-01-17T07:57:07.366Z] Database already seeded. Skipping.
+[2026-01-17T07:57:13.392Z] --- Starting Database Seeding ---
+[2026-01-17T07:57:13.393Z] Connecting to database: bnp_db
+[2026-01-17T07:57:13.398Z] Database already seeded. Skipping.
+[2026-01-17T08:05:27.204Z] --- Starting Database Seeding ---
+[2026-01-17T08:05:27.204Z] Connecting to database: bnp_db
+[2026-01-17T08:05:27.208Z] Database already seeded. Skipping.
+[2026-01-17T08:10:22.661Z] --- Starting Database Seeding ---
+[2026-01-17T08:10:22.661Z] Connecting to database: bnp_db
+[2026-01-17T08:10:22.666Z] Database already seeded. Skipping.
+[2026-01-17T08:10:32.866Z] --- Starting Database Seeding ---
+[2026-01-17T08:10:32.867Z] Connecting to database: bnp_db
+[2026-01-17T08:10:32.872Z] Database already seeded. Skipping.
+[2026-01-17T08:12:10.084Z] --- Starting Database Seeding ---
+[2026-01-17T08:12:10.085Z] Connecting to database: bnp_db
+[2026-01-17T08:12:10.089Z] Database already seeded. Skipping.
+[2026-01-17T08:28:13.436Z] --- Starting Database Seeding ---
+[2026-01-17T08:28:13.436Z] Connecting to database: bnp_db
+[2026-01-17T08:28:13.442Z] Database already seeded. Skipping.
+[2026-01-17T08:28:29.868Z] --- Starting Database Seeding ---
+[2026-01-17T08:28:29.868Z] Connecting to database: bnp_db
+[2026-01-17T08:28:29.873Z] Database already seeded. Skipping.
+[2026-01-17T08:28:36.022Z] --- Starting Database Seeding ---
+[2026-01-17T08:28:36.023Z] Connecting to database: bnp_db
+[2026-01-17T08:28:36.028Z] Database already seeded. Skipping.
+[2026-01-17T08:31:02.142Z] --- Starting Database Seeding ---
+[2026-01-17T08:31:02.143Z] Connecting to database: bnp_db
+[2026-01-17T08:31:02.147Z] Database already seeded. Skipping.
+[2026-01-17T08:32:27.624Z] --- Starting Database Seeding ---
+[2026-01-17T08:32:27.625Z] Connecting to database: bnp_db
+[2026-01-17T08:32:27.629Z] Database already seeded. Skipping.
+[2026-01-17T10:40:18.374Z] --- Starting Database Seeding ---
+[2026-01-17T10:40:18.374Z] Connecting to database: bnp_db
+[2026-01-17T10:40:18.379Z] Database already seeded. Skipping.
+[2026-01-17T10:41:51.740Z] --- Starting Database Seeding ---
+[2026-01-17T10:41:51.741Z] Connecting to database: bnp_db
+[2026-01-17T10:41:51.745Z] Database already seeded. Skipping.
+[2026-01-17T10:45:14.730Z] --- Starting Database Seeding ---
+[2026-01-17T10:45:14.730Z] Connecting to database: bnp_db
+[2026-01-17T10:45:14.734Z] Database already seeded. Skipping.
+[2026-01-17T10:47:11.447Z] --- Starting Database Seeding ---
+[2026-01-17T10:47:11.447Z] Connecting to database: bnp_db
+[2026-01-17T10:47:11.453Z] Database already seeded. Skipping.
+[2026-01-17T10:48:05.990Z] --- Starting Database Seeding ---
+[2026-01-17T10:48:05.993Z] Connecting to database: bnp_db
+[2026-01-17T10:48:05.999Z] Database already seeded. Skipping.
+[2026-01-17T10:49:35.035Z] --- Starting Database Seeding ---
+[2026-01-17T10:49:35.036Z] Connecting to database: bnp_db
+[2026-01-17T10:49:35.040Z] Database already seeded. Skipping.
+[2026-01-17T10:51:41.407Z] --- Starting Database Seeding ---
+[2026-01-17T10:51:41.408Z] Connecting to database: bnp_db
+[2026-01-17T10:51:41.412Z] Database already seeded. Skipping.
+[2026-01-17T10:51:59.958Z] --- Starting Database Seeding ---
+[2026-01-17T10:51:59.958Z] Connecting to database: bnp_db
+[2026-01-17T10:51:59.964Z] Database already seeded. Skipping.
