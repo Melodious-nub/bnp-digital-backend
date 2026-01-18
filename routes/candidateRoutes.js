@@ -5,6 +5,17 @@ const { authenticateToken, authorizeRole } = require('../middleware/auth');
 
 /**
  * @openapi
+ * /api/candidates:
+ *   get:
+ *     summary: (Private) Get all candidates (Superadmin Only)
+ *     tags: [Candidates]
+ *     security:
+ *       - bearerAuth: []
+ */
+router.get('/', authenticateToken, authorizeRole('super_admin'), candidateController.getAllCandidates);
+
+/**
+ * @openapi
  * /api/candidates/by-district:
  *   get:
  *     tags: [Candidates]

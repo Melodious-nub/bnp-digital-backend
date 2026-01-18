@@ -3,6 +3,65 @@ const formatUrl = require('../utils/formatUrl');
 
 /**
  * @openapi
+ * /api/candidates:
+ *   get:
+ *     summary: (Private) Get all candidates (Superadmin Only)
+ *     tags: [Candidates]
+ *     security:
+ *       - bearerAuth: []
+ *     responses:
+ *       200:
+ *         description: List of all candidates
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 type: object
+ *                 properties:
+ *                   id: { type: integer }
+ *                   fullNameEn: { type: string }
+ *                   fullNameBn: { type: string }
+ *                   slug: { type: string }
+ *                   divisionId: { type: integer }
+ *                   districtId: { type: integer }
+ *                   constituencyNo: { type: integer }
+ *                   photoUrl: { type: string }
+ *                   designation: { type: string }
+ *                   email: { type: string }
+ */
+exports.getAllCandidates = async (req, res) => {
+    try {
+        const [rows] = await db.query(
+            `SELECT c.id, c.full_name_en, c.full_name_bn, c.slug, 
+                    c.division_id, c.district_id, c.constituency_no, 
+                    c.photo_url, c.designation, c.email
+             FROM candidates c
+             ORDER BY c.division_id, c.district_id, c.constituency_no`
+        );
+
+        const result = rows.map(row => ({
+            id: row.id,
+            fullNameEn: row.full_name_en,
+            fullNameBn: row.full_name_bn,
+            slug: row.slug,
+            divisionId: row.division_id,
+            districtId: row.district_id,
+            constituencyNo: row.constituency_no,
+            photoUrl: formatUrl(row.photo_url),
+            designation: row.designation,
+            email: row.email
+        }));
+
+        res.json(result);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: 'Internal server error' });
+    }
+};
+
+/**
+ * @openapi
  * /api/candidates/by-district:
  *   get:
  *     summary: (Public) Get candidates by district name
