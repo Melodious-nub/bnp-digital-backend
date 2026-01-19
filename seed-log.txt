@@ -1,12 +1,3 @@
-[2026-01-18T17:14:12.771Z] --- Starting Database Seeding ---
-[2026-01-18T17:14:12.771Z] Connecting to database: bnp_test
-[2026-01-18T17:14:12.776Z] Database already seeded. Skipping.
-[2026-01-18T17:14:48.339Z] --- Starting Database Seeding ---
-[2026-01-18T17:14:48.340Z] Connecting to database: bnp_test
-[2026-01-18T17:14:48.344Z] Database already seeded. Skipping.
-[2026-01-18T17:15:41.622Z] --- Starting Database Seeding ---
-[2026-01-18T17:15:41.622Z] Connecting to database: bnp_test
-[2026-01-18T17:15:41.626Z] Database already seeded. Skipping.
-[2026-01-18T17:15:47.689Z] --- Starting Database Seeding ---
-[2026-01-18T17:15:47.690Z] Connecting to database: bnp_test
-[2026-01-18T17:15:47.694Z] Database already seeded. Skipping.
+[2026-01-19T17:10:16.962Z] --- Starting Database Seeding ---
+[2026-01-19T17:10:16.962Z] Connecting to database: bnp_test
+[2026-01-19T17:10:16.966Z] Database already seeded. Skipping.

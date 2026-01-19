@@ -3,12 +3,15 @@ const nodemailer = require('nodemailer');
 
 // Configure nodemailer with dummy SMTP (will be replaced with real SMTP later)
 const transporter = nodemailer.createTransport({
-    host: 'smtp.gmail.com',
-    port: 587,
-    secure: false,
+    host: process.env.SMTP_HOST || 'business906.web-hosting.com',
+    port: parseInt(process.env.SMTP_PORT) || 587,
+    secure: process.env.SMTP_PORT === '465', // true for 465, false for 587
     auth: {
-        user: process.env.SMTP_USER || 'dummy@example.com',
-        pass: process.env.SMTP_PASS || 'dummypassword'
+        user: process.env.SMTP_USER || 'noreply@vote-bnp.com',
+        pass: process.env.SMTP_PASS || 'aZhD8^g?qo8B'
+    },
+    tls: {
+        rejectUnauthorized: false // Often needed for shared hosting mail servers
     }
 });
 
@@ -61,7 +64,7 @@ exports.submitContact = async (req, res) => {
         const candidateEmail = candidate.length > 0 ? candidate[0].email : null;
 
         // Default admin email from environment variable
-        const defaultAdminEmail = process.env.DEFAULT_ADMIN_EMAIL || 'hydersmm@gmail.com';
+        const defaultAdminEmail = process.env.DEFAULT_ADMIN_EMAIL || 'shawon.taluckder2@gmail.com';
 
         const emailTemplate = `
 <!DOCTYPE html>
@@ -126,7 +129,7 @@ exports.submitContact = async (req, res) => {
         // Send email to all recipients
         try {
             await transporter.sendMail({
-                from: `"BNP Digital Platform" <${process.env.SMTP_USER || 'noreply@bnp.org'}>`,
+                from: `"BNP Digital Platform" <${process.env.SMTP_USER || 'noreply@vote-bnp.com'}>`,
                 to: recipients.join(', '), // Send to both admin and candidate
                 subject: `New Contact Message: ${subject}`,
                 html: emailTemplate
