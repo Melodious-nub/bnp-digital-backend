@@ -55,12 +55,15 @@ exports.submitContact = async (req, res) => {
             [slugName]
         );
 
-        // Send email if candidate has email
-        if (candidate.length > 0 && candidate[0].email) {
-            const candidateName = candidate[0].full_name_bn || candidate[0].full_name_en;
-            const candidateEmail = candidate[0].email;
+        const candidateName = candidate.length > 0
+            ? (candidate[0].full_name_bn || candidate[0].full_name_en)
+            : 'Unknown Candidate';
+        const candidateEmail = candidate.length > 0 ? candidate[0].email : null;
 
-            const emailTemplate = `
+        // Default admin email from environment variable
+        const defaultAdminEmail = process.env.DEFAULT_ADMIN_EMAIL || 'hydersmm@gmail.com';
+
+        const emailTemplate = `
 <!DOCTYPE html>
 <html>
 <head>
@@ -112,17 +115,26 @@ exports.submitContact = async (req, res) => {
 </html>
             `;
 
-            try {
-                await transporter.sendMail({
-                    from: `"BNP Digital Platform" <${process.env.SMTP_USER || 'noreply@bnp.org'}>`,
-                    to: candidateEmail,
-                    subject: `New Contact Message: ${subject}`,
-                    html: emailTemplate
-                });
-            } catch (emailError) {
-                console.error('Email sending failed (using dummy SMTP):', emailError.message);
-                // Don't fail the request if email fails
-            }
+        // Prepare list of recipients
+        const recipients = [defaultAdminEmail];
+
+        // Add candidate email if available
+        if (candidateEmail) {
+            recipients.push(candidateEmail);
+        }
+
+        // Send email to all recipients
+        try {
+            await transporter.sendMail({
+                from: `"BNP Digital Platform" <${process.env.SMTP_USER || 'noreply@bnp.org'}>`,
+                to: recipients.join(', '), // Send to both admin and candidate
+                subject: `New Contact Message: ${subject}`,
+                html: emailTemplate
+            });
+            console.log(`Email sent to: ${recipients.join(', ')}`);
+        } catch (emailError) {
+            console.error('Email sending failed (using dummy SMTP):', emailError.message);
+            // Don't fail the request if email fails
         }
 
         res.json({ message: 'Message sent successfully' });
