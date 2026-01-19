@@ -21,7 +21,7 @@ const options = {
         ],
         servers: [
             {
-                url: process.env.BASE_URL || 'http://api.vote-bnp.com',
+                url: process.env.BASE_URL || 'https://api.vote-bnp.com',
                 description: 'Production/Development server',
             },
         ],
