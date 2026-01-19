@@ -17,31 +17,56 @@ async function initializeDatabase() {
 
     try {
         log('Connecting to MySQL host: ' + process.env.DB_HOST);
-        // 1. Connect without database to create it if it doesn't exist
-        const connectionBase = await mysql.createConnection({
-            host: process.env.DB_HOST,
-            user: process.env.DB_USER,
-            password: process.env.DB_PASSWORD,
-        });
 
+        let connection;
+        let dbExists = false;
+
+        // 1. Try to connect directly with the database first (Production behavior)
         try {
-            await connectionBase.query(`CREATE DATABASE IF NOT EXISTS \`${process.env.DB_NAME}\``);
-            log(`Database '${process.env.DB_NAME}' ensured.`);
-        } catch (err) {
-            log('Error creating database: ' + err.message);
-            throw err;
-        } finally {
-            await connectionBase.end();
+            connection = await mysql.createConnection({
+                host: process.env.DB_HOST,
+                user: process.env.DB_USER,
+                password: process.env.DB_PASSWORD,
+                database: process.env.DB_NAME,
+                multipleStatements: true
+            });
+            log(`Successfully connected to database '${process.env.DB_NAME}'.`);
+            dbExists = true;
+        } catch (connError) {
+            // If the database doesn't exist (ER_BAD_DB_ERROR), try to create it (Local behavior)
+            if (connError.code === 'ER_BAD_DB_ERROR') {
+                log(`Database '${process.env.DB_NAME}' does not exist. Attempting to create...`);
+                const connectionBase = await mysql.createConnection({
+                    host: process.env.DB_HOST,
+                    user: process.env.DB_USER,
+                    password: process.env.DB_PASSWORD,
+                });
+
+                try {
+                    await connectionBase.query(`CREATE DATABASE IF NOT EXISTS \`${process.env.DB_NAME}\``);
+                    log(`Database '${process.env.DB_NAME}' created/ensured.`);
+                    dbExists = true;
+                } catch (createErr) {
+                    log('Error creating database: ' + createErr.message);
+                    throw createErr;
+                } finally {
+                    await connectionBase.end();
+                }
+
+                // Now connect to the newly created database
+                connection = await mysql.createConnection({
+                    host: process.env.DB_HOST,
+                    user: process.env.DB_USER,
+                    password: process.env.DB_PASSWORD,
+                    database: process.env.DB_NAME,
+                    multipleStatements: true
+                });
+            } else {
+                // If it's some other error (like Access Denied to host), throw it
+                throw connError;
+            }
         }
 
-        // 2. Connect to the database to check if schema exists
-        const connection = await mysql.createConnection({
-            host: process.env.DB_HOST,
-            user: process.env.DB_USER,
-            password: process.env.DB_PASSWORD,
-            database: process.env.DB_NAME,
-            multipleStatements: true
-        });
 
         try {
             // Check if tables already exist by checking for the 'users' table

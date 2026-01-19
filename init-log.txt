@@ -1,30 +1,75 @@
 [2026-01-19T17:10:16.932Z] --- Starting Database Initialization ---
-[2026-01-19T17:10:16.933Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:10:16.933Z] Connecting to MySQL host: localhost
 [2026-01-19T17:10:16.951Z] Database 'bnp_test' ensured.
 [2026-01-19T17:10:16.959Z] Ensured table contact_messages exists.
 [2026-01-19T17:10:16.960Z] Database tables already exist. Skipping full schema application.
 [2026-01-19T17:19:46.147Z] --- Starting Database Initialization ---
-[2026-01-19T17:19:46.148Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:19:46.148Z] Connecting to MySQL host: localhost
 [2026-01-19T17:19:46.167Z] Database 'bnp_test' ensured.
 [2026-01-19T17:19:46.173Z] Ensured table contact_messages exists.
 [2026-01-19T17:19:46.174Z] Database tables already exist. Skipping full schema application.
 [2026-01-19T17:22:18.667Z] --- Starting Database Initialization ---
-[2026-01-19T17:22:18.667Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:22:18.667Z] Connecting to MySQL host: localhost
 [2026-01-19T17:22:18.687Z] Database 'bnp_test' ensured.
 [2026-01-19T17:22:18.694Z] Ensured table contact_messages exists.
 [2026-01-19T17:22:18.694Z] Database tables already exist. Skipping full schema application.
 [2026-01-19T17:22:40.062Z] --- Starting Database Initialization ---
-[2026-01-19T17:22:40.063Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:22:40.063Z] Connecting to MySQL host: localhost
 [2026-01-19T17:22:40.085Z] Database 'bnp_test' ensured.
 [2026-01-19T17:22:40.094Z] Ensured table contact_messages exists.
 [2026-01-19T17:22:40.094Z] Database tables already exist. Skipping full schema application.
 [2026-01-19T17:22:56.990Z] --- Starting Database Initialization ---
-[2026-01-19T17:22:56.991Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:22:56.991Z] Connecting to MySQL host: localhost
 [2026-01-19T17:22:57.017Z] Database 'bnp_test' ensured.
 [2026-01-19T17:22:57.026Z] Ensured table contact_messages exists.
 [2026-01-19T17:22:57.027Z] Database tables already exist. Skipping full schema application.
 [2026-01-19T17:23:07.672Z] --- Starting Database Initialization ---
-[2026-01-19T17:23:07.673Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:23:07.673Z] Connecting to MySQL host: localhost
 [2026-01-19T17:23:07.698Z] Database 'bnp_test' ensured.
 [2026-01-19T17:23:07.709Z] Ensured table contact_messages exists.
 [2026-01-19T17:23:07.709Z] Database tables already exist. Skipping full schema application.
+[2026-01-19T17:46:38.259Z] --- Starting Database Initialization ---
+[2026-01-19T17:46:38.260Z] Connecting to MySQL host: localhost
+[2026-01-19T17:46:38.282Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:46:57.522Z] --- Starting Database Initialization ---
+[2026-01-19T17:46:57.523Z] Connecting to MySQL host: localhost
+[2026-01-19T17:46:57.541Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:50:59.114Z] --- Starting Database Initialization ---
+[2026-01-19T17:50:59.114Z] Connecting to MySQL host: localhost
+[2026-01-19T17:50:59.136Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:52:38.586Z] --- Starting Database Initialization ---
+[2026-01-19T17:52:38.587Z] Connecting to MySQL host: localhost
+[2026-01-19T17:52:38.608Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:52:47.188Z] --- Starting Database Initialization ---
+[2026-01-19T17:52:47.189Z] Connecting to MySQL host: localhost
+[2026-01-19T17:52:47.208Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:52:57.454Z] --- Starting Database Initialization ---
+[2026-01-19T17:52:57.455Z] Connecting to MySQL host: localhost
+[2026-01-19T17:52:57.478Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:53:25.236Z] --- Starting Database Initialization ---
+[2026-01-19T17:53:25.237Z] Connecting to MySQL host: localhost
+[2026-01-19T17:53:25.256Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:53:32.568Z] --- Starting Database Initialization ---
+[2026-01-19T17:53:32.569Z] Connecting to MySQL host: localhost
+[2026-01-19T17:53:32.589Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:53:33.865Z] --- Starting Database Initialization ---
+[2026-01-19T17:53:33.866Z] Connecting to MySQL host: localhost
+[2026-01-19T17:53:33.887Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:53:42.100Z] --- Starting Database Initialization ---
+[2026-01-19T17:53:42.101Z] Connecting to MySQL host: localhost
+[2026-01-19T17:53:42.121Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:53:43.584Z] --- Starting Database Initialization ---
+[2026-01-19T17:53:43.585Z] Connecting to MySQL host: localhost
+[2026-01-19T17:53:43.605Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:57:51.394Z] --- Starting Database Initialization ---
+[2026-01-19T17:57:51.403Z] Connecting to MySQL host: localhost
+[2026-01-19T17:57:51.424Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T17:58:20.106Z] --- Starting Database Initialization ---
+[2026-01-19T17:58:20.107Z] Connecting to MySQL host: localhost
+[2026-01-19T17:58:20.125Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T18:00:57.737Z] --- Starting Database Initialization ---
+[2026-01-19T18:00:57.738Z] Connecting to MySQL host: localhost
+[2026-01-19T18:00:57.765Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)
+[2026-01-19T18:01:00.207Z] --- Starting Database Initialization ---
+[2026-01-19T18:01:00.209Z] Connecting to MySQL host: localhost
+[2026-01-19T18:01:00.266Z] Global Error: Access denied for user 'votegxlv_root'@'localhost' (using password: YES)

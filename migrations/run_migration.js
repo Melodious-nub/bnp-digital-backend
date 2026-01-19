@@ -3,10 +3,10 @@ require('dotenv').config();
 
 async function runMigration() {
     const connection = await mysql.createConnection({
-        host: process.env.DB_HOST || '127.0.0.1',
-        user: process.env.DB_USER || 'root',
-        password: process.env.DB_PASSWORD || '',
-        database: process.env.DB_NAME || 'bnp_db'
+        host: process.env.DB_HOST || 'localhost',
+        user: process.env.DB_USER || 'votegxlv_root',
+        password: process.env.DB_PASSWORD || 'kV.GdTV-Oqlw',
+        database: process.env.DB_NAME || 'votegxlv_mainDb'
     });
 
     try {
