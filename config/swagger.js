@@ -21,8 +21,8 @@ const options = {
         ],
         servers: [
             {
-                url: 'http://localhost:3000',
-                description: 'Development server',
+                url: process.env.BASE_URL || 'http://api.vote-bnp.com',
+                description: 'Production/Development server',
             },
         ],
         components: {

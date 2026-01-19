@@ -3,3 +3,28 @@
 [2026-01-19T17:10:16.951Z] Database 'bnp_test' ensured.
 [2026-01-19T17:10:16.959Z] Ensured table contact_messages exists.
 [2026-01-19T17:10:16.960Z] Database tables already exist. Skipping full schema application.
+[2026-01-19T17:19:46.147Z] --- Starting Database Initialization ---
+[2026-01-19T17:19:46.148Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:19:46.167Z] Database 'bnp_test' ensured.
+[2026-01-19T17:19:46.173Z] Ensured table contact_messages exists.
+[2026-01-19T17:19:46.174Z] Database tables already exist. Skipping full schema application.
+[2026-01-19T17:22:18.667Z] --- Starting Database Initialization ---
+[2026-01-19T17:22:18.667Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:22:18.687Z] Database 'bnp_test' ensured.
+[2026-01-19T17:22:18.694Z] Ensured table contact_messages exists.
+[2026-01-19T17:22:18.694Z] Database tables already exist. Skipping full schema application.
+[2026-01-19T17:22:40.062Z] --- Starting Database Initialization ---
+[2026-01-19T17:22:40.063Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:22:40.085Z] Database 'bnp_test' ensured.
+[2026-01-19T17:22:40.094Z] Ensured table contact_messages exists.
+[2026-01-19T17:22:40.094Z] Database tables already exist. Skipping full schema application.
+[2026-01-19T17:22:56.990Z] --- Starting Database Initialization ---
+[2026-01-19T17:22:56.991Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:22:57.017Z] Database 'bnp_test' ensured.
+[2026-01-19T17:22:57.026Z] Ensured table contact_messages exists.
+[2026-01-19T17:22:57.027Z] Database tables already exist. Skipping full schema application.
+[2026-01-19T17:23:07.672Z] --- Starting Database Initialization ---
+[2026-01-19T17:23:07.673Z] Connecting to MySQL host: 127.0.0.1
+[2026-01-19T17:23:07.698Z] Database 'bnp_test' ensured.
+[2026-01-19T17:23:07.709Z] Ensured table contact_messages exists.
+[2026-01-19T17:23:07.709Z] Database tables already exist. Skipping full schema application.
